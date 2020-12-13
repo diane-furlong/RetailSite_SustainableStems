@@ -18,6 +18,7 @@ main {
 margin: 80px 0;
 }
 
+
 /*Top image above header*/
 #top-image {
 display: block;
@@ -157,11 +158,34 @@ color: #4aaaa5;
     width: 100%;
 }
 
+.product-name {
+    text-align: center;
+}
+
 .product {
     width: 99%;
 }
 
+.product2 {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #shop-more-btn {
+    width: 99%;
+}
+
+#shop-plants-btn {
+    width: 99%;
+}
+
+#shop-accessories-btn {
+    width: 99%;
+}
+
+#shop-misc-btn {
     width: 99%;
 }
 
@@ -169,8 +193,19 @@ color: #4aaaa5;
     text-align: center;
 }
 
+/*Product Pages*/
+#prod.imgs {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lobster Two', cursive;
     text-align: center;
 }
 
